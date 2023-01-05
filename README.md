@@ -4,6 +4,8 @@ También contiene otros notebooks con librerías relevantes de este lenguaje com
 
 
 ## [1.Notebook Python](https://github.com/pilarcode/notebooks/blob/dev/intro_python.ipynb)
-- Immutabilidad: Un objeto en Python es mutable cuando cualquier elemento que contiene ese objeto puede ser modificado en cualquier momento.
-- Estructuras de datos simples y complejas.
+- Conceptos básicos sobre el lenguaje de programación Python.
+- Immutabilidad 
+- Estructuras de datos: String, List, Dict, Set, Tuple, Datetime, etc
 - Funciones
+- Clases y objetos
