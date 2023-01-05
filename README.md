@@ -1,8 +1,7 @@
-# notebooks
 Este repositorio contiene una serie de notebooks basicos con los fundamentos de programación de Python.
 También contiene otros notebooks con librerias relevantes de este lenguaje como pandas, numpy, sklearnt,scipy, etc.
 
-## [Notebook Python] (https://github.com/pilarcode/notebooks/blob/dev/intro_python.ipynb)
+### [Notebook Python](https://github.com/pilarcode/notebooks/blob/dev/intro_python.ipynb)
 1. **Immutabilidad**:
 Un objeto en Python es mutable cuando cualquier elemento que contiene ese objeto puede ser modificado en cualquier momento.
 
