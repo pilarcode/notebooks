@@ -5,7 +5,7 @@ También contiene otros notebooks con librerías relevantes de este lenguaje com
 
 ## [1.Notebook Python](https://github.com/pilarcode/notebooks/blob/dev/intro_python.ipynb)
 - Conceptos básicos sobre el lenguaje de programación Python.
-- Immutabilidad 
-- Estructuras de datos: String, List, Dict, Set, Tuple, Datetime, etc
-- Funciones
-- Clases y objetos
+- Concepto de **mutabilidad**.  
+- **Estructuras de datos** String, List, Dict, Set, Tuple, Datetime.
+- Declaración de **funciones**.
+- **Clases** y **objetos**.
