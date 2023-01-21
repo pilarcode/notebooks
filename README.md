@@ -10,8 +10,6 @@ También contiene otros notebooks con librerías relevantes de este lenguaje com
 - Declaración de **funciones**.
 - **Clases** y **objetos**.
 
-![Python basics](https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-18-write-code-is-easier-than-psuedocode.jpg)
-
 ## [2.Testing using Python](https://github.com/pilarcode/notebooks/blob/dev/Testing.ipynb)
 - Conceptos básicos sobre testing.
 - Frameworks para testing en python
@@ -19,4 +17,3 @@ También contiene otros notebooks con librerías relevantes de este lenguaje com
 - Mocks
 - Test probabílisticos.
 
-![Tests everywhere](https://mailtrap.io/wp-content/uploads/2020/06/testing_meme5.jpeg)
