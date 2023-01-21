@@ -1,7 +1,14 @@
 # Repositorio de notebooks de ejemplo
-Este repositorio contiene una serie de notebooks básicos con los fundamentos de programación de Python.
-También contiene otros notebooks con librerías relevantes de este lenguaje como **pandas**, **numpy**, **sklearnt**,**scipy**, etc.
-Y ![consejos utiles para enriquecer los notebooks](https://towardsdatascience.com/enrich-your-jupyter-notebook-with-these-tips-55c8ead25255)
+Este repositorio contiene:
+
+- [x] Notebook para aprender a programar en python.
+- [x] Notebook para aprender a hacer tests en python
+- [x] [Guía de estilo](https://peps.python.org/pep-0008/) de programación en python  
+- [x] [consejos utiles para enriquecer los notebooks](https://towardsdatascience.com/enrich-your-jupyter-notebook-with-these-tips-55c8ead25255)
+- [ ] Notebook para aprender la libreria de pandas 
+- [ ] Notebook para aprender la libreria de numpy 
+- [ ] Notebook para aprender la libreria de sklearn
+- [ ] Notebook para aprender la libreria de scipy
 
 
 ## [1. Python for begginers](https://github.com/pilarcode/notebooks/blob/dev/intro_python.ipynb)
