@@ -3,7 +3,7 @@ Este repositorio contiene una serie de notebooks básicos con los fundamentos de
 También contiene otros notebooks con librerías relevantes de este lenguaje como **pandas**, **numpy**, **sklearnt**,**scipy**, etc.
 
 
-## [1.Notebook Python](https://github.com/pilarcode/notebooks/blob/dev/intro_python.ipynb)
+## [1. Python for begginers](https://github.com/pilarcode/notebooks/blob/dev/intro_python.ipynb)
 - Conceptos básicos sobre el lenguaje de programación Python.
 - Concepto de **mutabilidad**.  
 - **Estructuras de datos** String, List, Dict, Set, Tuple, Datetime.
