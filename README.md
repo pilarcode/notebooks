@@ -5,6 +5,7 @@ Este repositorio contiene:
 - [x] Notebook para aprender a hacer tests en python
 - [x] [Guía de estilo](https://peps.python.org/pep-0008/) de programación en python  
 - [x] [consejos utiles para enriquecer los notebooks](https://towardsdatascience.com/enrich-your-jupyter-notebook-with-these-tips-55c8ead25255)
+- [X] [Añadir emojis al markdown](https://tutorialmarkdown.com/emojis)
 - [ ] Notebook para aprender la libreria de pandas 
 - [ ] Notebook para aprender la libreria de numpy 
 - [ ] Notebook para aprender la libreria de sklearn
