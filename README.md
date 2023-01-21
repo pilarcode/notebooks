@@ -9,3 +9,14 @@ También contiene otros notebooks con librerías relevantes de este lenguaje com
 - **Estructuras de datos** String, List, Dict, Set, Tuple, Datetime.
 - Declaración de **funciones**.
 - **Clases** y **objetos**.
+
+![Python basics](https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-18-write-code-is-easier-than-psuedocode.jpg)
+
+## [2.Tests with Python](https://github.com/pilarcode/notebooks/blob/dev/Testing.ipynb)
+- Conceptos básicos sobre testing.
+- Frameworks para testing en python
+- Ejemplos de tests.
+- Mocks
+- Test probabílisticos.
+
+![Tests everywhere](https://mailtrap.io/wp-content/uploads/2020/06/testing_meme5.jpeg)
