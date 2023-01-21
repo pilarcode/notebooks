@@ -10,7 +10,7 @@ También contiene otros notebooks con librerías relevantes de este lenguaje com
 - Declaración de **funciones**.
 - **Clases** y **objetos**.
 
-## [2.Getting started with Testing in Python](https://github.com/pilarcode/notebooks/blob/dev/Testing.ipynb)
+## [2.Getting started with Testing in Python](https://github.com/pilarcode/notebooks/blob/dev/testing_python.ipynb)
 - Conceptos básicos sobre testing.
 - Frameworks para testing en python
 - Ejemplos de tests.
