@@ -24,3 +24,8 @@ Este repositorio contiene:
 - Frameworks para testing en python
 - Ejemplos de tests.
 
+## 3️⃣ Tests probabilisticos
+
+## 4️⃣ Visualizaciones
+
+## 5️⃣ Pipelines
