@@ -12,7 +12,7 @@ También contiene otros notebooks con librerías relevantes de este lenguaje com
 
 ![Python basics](https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-18-write-code-is-easier-than-psuedocode.jpg)
 
-## [2.Tests with Python](https://github.com/pilarcode/notebooks/blob/dev/Testing.ipynb)
+## [2.Testing using Python](https://github.com/pilarcode/notebooks/blob/dev/Testing.ipynb)
 - Conceptos básicos sobre testing.
 - Frameworks para testing en python
 - Ejemplos de tests.
