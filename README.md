@@ -14,6 +14,4 @@ También contiene otros notebooks con librerías relevantes de este lenguaje com
 - Conceptos básicos sobre testing.
 - Frameworks para testing en python
 - Ejemplos de tests.
-- Mocks
-- Test probabílisticos.
 
