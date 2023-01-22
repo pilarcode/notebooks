@@ -1,8 +1,5 @@
 # Repositorio de notebooks de ejemplo
-Este repositorio contiene:
-
-- [x] Notebook para aprender a programar en python.
-- [x] Notebook para aprender a hacer tests en python
+Este repositorio contiene los siguientes links y notebooks:
 - [x] [Guía de estilo](https://peps.python.org/pep-0008/) de programación en python  
 - [x] [consejos utiles para enriquecer los notebooks](https://towardsdatascience.com/enrich-your-jupyter-notebook-with-these-tips-55c8ead25255)
 - [X] [Añadir emojis al markdown](https://tutorialmarkdown.com/emojis) 😄
