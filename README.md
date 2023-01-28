@@ -18,7 +18,7 @@ Este repositorio contiene los siguientes links y notebooks:
 - Frameworks para testing en python
 - Ejemplos de tests.
 
-## 3️⃣ Tests probabilisticos
+## 3️⃣ Tests probabilisticos 
 
 ## 4️⃣ Visualizaciones
   - [Notebook with seaborn](https://github.com/pilarcode/notebooks/blob/dev/intro_seaborn.ipynb)
