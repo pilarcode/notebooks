@@ -1,4 +1,4 @@
-# Repositorio de notebooks de ejemplo
+
 Este repositorio contiene los siguientes links y notebooks:
 - [x] 👍 [Guía de estilo](https://peps.python.org/pep-0008/) de programación en python  
 - [x] 👍 [Consejos útiles para enriquecer los notebooks](https://towardsdatascience.com/enrich-your-jupyter-notebook-with-these-tips-55c8ead25255)
