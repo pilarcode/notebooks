@@ -6,25 +6,19 @@ Este repositorio contiene los siguientes links y notebooks:
 
 
 
-## 1️⃣[ Python for begginers](https://github.com/pilarcode/notebooks/blob/dev/intro_python.ipynb)
+## [ Python for begginers](https://github.com/pilarcode/notebooks/blob/dev/intro_python.ipynb)
 -  Conceptos básicos sobre el lenguaje de programación Python.
 - Concepto de **mutabilidad**.  
 - **Estructuras de datos** String, List, Dict, Set, Tuple, Datetime.
 - Declaración de **funciones**.
 - **Clases** y **objetos**.
 
-## 2️⃣[Getting started with Testing in Python](https://github.com/pilarcode/notebooks/blob/dev/testing_python.ipynb)
+## [Getting started with Testing in Python](https://github.com/pilarcode/notebooks/blob/dev/testing_python.ipynb)
 - Conceptos básicos sobre testing.
 - Frameworks para testing en python
-- Ejemplos de tests.
+- Ejemplos de tests. 
 
-## 3️⃣ Tests probabilisticos 
-
-## 4️⃣ Visualizaciones
+## Visualizaciones
   - [Notebook with seaborn](https://github.com/pilarcode/notebooks/blob/dev/intro_seaborn.ipynb)
-  
-## 5️⃣ Pipelines
-  🔸 Luidgi
-  🔸 Vertex AI
-  
+
   
