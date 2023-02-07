@@ -19,6 +19,6 @@ Este repositorio contiene los siguientes links y notebooks:
 - Ejemplos de tests. 
 
 ## Visualizaciones
-  - [Notebook with seaborn](https://github.com/pilarcode/notebooks/blob/dev/intro_seaborn.ipynb)
+  - [seaborn](https://github.com/pilarcode/notebooks/blob/dev/intro_seaborn.ipynb)
 
   
